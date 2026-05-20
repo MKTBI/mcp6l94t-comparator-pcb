@@ -30,7 +30,7 @@ The circuit uses four comparator channels to drive individual LEDs, powered by a
 | Input resistors | 1kΩ / 3.3kΩ voltage divider network |
 | Bypass capacitor | 0.1µF (C1) on VDD |
 | Test function | Push-to-test button (push1) |
-| EDA Tool | KiCad 5.0.1 |
+| EDA Tool | KiCad 5.1.6 |
 
 ---
 
