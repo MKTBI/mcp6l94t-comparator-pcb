@@ -3,7 +3,7 @@
 > A multi-output LED driver circuit built around the MCP6L94T quad op-amp,
 > fully designed in KiCad from schematic to 3D render.
 
-📄 BSc Mechatronics Engineering · V3EE27 · 2020
+📄 BSc Mechatronics Engineering · 2020
 
 ---
 
@@ -30,7 +30,7 @@ The circuit uses four comparator channels to drive individual LEDs, powered by a
 | Input resistors | 1kΩ / 3.3kΩ voltage divider network |
 | Bypass capacitor | 0.1µF (C1) on VDD |
 | Test function | Push-to-test button (push1) |
-| EDA Tool | KiCad 6.1.5 |
+| EDA Tool | KiCad 5.0.1 |
 
 ---
 
@@ -89,7 +89,7 @@ mcp6l94t-comparator-pcb/
 │   ├── 3d_front.png        # 3D render — front side
 │   └── 3d_back.png         # 3D render — back side
 │
-├── mcp6l94t-comparator-pcb.pro              # KiCad project file
+├── mcp6l94t-comparator-pcb.pro
 └── README.md
 ```
 
