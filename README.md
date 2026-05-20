@@ -89,7 +89,7 @@ mcp6l94t-comparator-pcb/
 │   ├── 3d_front.png        # 3D render — front side
 │   └── 3d_back.png         # 3D render — back side
 │
-├── 26 MAR.pro              # KiCad project file
+├── mcp6l94t-comparator-pcb.pro              # KiCad project file
 └── README.md
 ```
 
