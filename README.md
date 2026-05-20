@@ -116,7 +116,6 @@ mcp6l94t-comparator-pcb/
 
 **Danial Maktabi**
 BSc Mechatronics Engineering | MSc Data Analytics
-Associate, Asset Management @ UNHCR · Budapest, Hungary
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/danial-maktabi)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/danial-maktabi)
